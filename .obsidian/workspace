@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "62012b5344e0ba5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c49a365ba5a3bda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Visual Design/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19f9a0a06c17bd44",
+    "type": "split",
+    "children": [
+      {
+        "id": "527c437c6e53e543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204ab82d707a9f92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d5765653c7388ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7aeffb6dd7566afd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a845f873d2b19ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26234844182ae9ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbba8479a47fb0d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Visual Design/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91a051f2c9d33f80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Visual Design/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37973fbadd932d92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bd7833d9aa4c60b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Visual Design/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c49a365ba5a3bda",
+  "lastOpenFiles": [
+    "Visual Design/Sketches/MagicTrexRunesConcept.png",
+    "Gameplay/README.md",
+    "Narrative/README.md",
+    "Narrative/Story Synopsis/NarrativeSyn.md",
+    "README.md"
+  ]
+}
