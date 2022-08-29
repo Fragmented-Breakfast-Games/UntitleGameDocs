@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c49a365ba5a3bda",
+        "id": "ad660f41608fa2da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Narrative/Story Synopsis/NarrativeSyn.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Story Synopsis/NarrativeSyn.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Story Synopsis/NarrativeSyn.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Story Synopsis/NarrativeSyn.md"
+                "file": "README.md"
               }
             }
           }
@@ -128,11 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c49a365ba5a3bda",
+  "active": "ad660f41608fa2da",
   "lastOpenFiles": [
+    "MiscAttachments/ScreenShotOfObsidian.png",
     "README.md",
-    "Narrative/Story Synopsis/NarrativeSyn.md",
     "Visual Design/README.md",
+    "Narrative/Story Synopsis/NarrativeSyn.md",
     "Visual Design/Sketches/MagicTrexRunesConcept.png",
     "Gameplay/README.md",
     "Narrative/README.md"

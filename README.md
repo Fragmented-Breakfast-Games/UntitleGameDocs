@@ -25,7 +25,12 @@ Make directory, with a follow up markdown file `.md`
 # Helpers:
 
 ### Video explaining Obsidian usage & GitHub
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5AzfsOl2R6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/embed/5AzfsOl2R6k">
+
+<img src="MiscAttachments/ScreenShotOfObsidian.png">
+
+</a>
 
 ### Basic Syntax for Markdown files
 <a href="https://www.markdownguide.org/basic-syntax/">Found here</a>
