@@ -17,9 +17,11 @@ documentation.
 Make directory, with a follow up markdown file `.md`
 
 
-
-
 ### Additionally, a <a href="https://github.com/orgs/Fragmented-Breakfast-Games/discussions">team-discussion board</a> has been made
+
+
+### Basic Syntax for Markdown files
+<a href="https://www.markdownguide.org/basic-syntax/">Found here</a>
 
 
 Thanks,
