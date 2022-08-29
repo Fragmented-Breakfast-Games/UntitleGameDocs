@@ -37,12 +37,10 @@ Simple point-by-point of game details, this isn't a literary analysis / outline.
 # Protagonist / PC
 
 - Q: Who is the Protagonist?
-  - A: No info available at this moment.
-    - Proposed options:
-      - A dinosaur (customizable)
-      - a human (customizable)
-      - a human (two-three preset options)
-      - a dinosaur (two-three preset options)
+  - A: Human Protag
+- Q: What does the Protag do?
+	- A:
+
 
 
 ---

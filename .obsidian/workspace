@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visual Design/README.md",
+            "file": "Narrative/Story Synopsis/NarrativeSyn.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Design/README.md",
+                "file": "Narrative/Story Synopsis/NarrativeSyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Design/README.md",
+                "file": "Narrative/Story Synopsis/NarrativeSyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Design/README.md"
+                "file": "Narrative/Story Synopsis/NarrativeSyn.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "9c49a365ba5a3bda",
   "lastOpenFiles": [
+    "Visual Design/README.md",
     "Visual Design/Sketches/MagicTrexRunesConcept.png",
     "Gameplay/README.md",
     "Narrative/README.md",
