@@ -22,9 +22,10 @@ Simple point-by-point of game details, this isn't a literary analysis / outline.
   - A: SinglePlayer at - at most local co-op.
 
 - Q: Dialogue / Character Morality Focused?
-  - A: Yes. Your actions via X event will influence Y's outcome, our even your overall stats.
+  - A: Possibly, this was a proposed option; Your actions via X event will influence Y's outcome, our even your overall stats.
   - Will further expound on this (i.e., how in depth these actions go). Tentatively PC will be unaware of the event (Loss/Gain of morale, or effect)
-  - "2D" Platformer style, similar to Celeste and others, core focus is dialogue, secondary magic.
+  - "2D" Platformer style, similar to Celeste and others
+  - Class Based "2D" Platformer, levels/endings are affected by class choice.
 
 - Q: What is the overall theme of this game?
   - Tentatively, the theme is a magical-dinosaur themed game
@@ -42,7 +43,8 @@ Simple point-by-point of game details, this isn't a literary analysis / outline.
 - Q: Who is the Protagonist?
   - A: Human Protag
 - Q: What does the Protag do?
-	- A:
+	- A: ???
+	- Primary goal seems to be class platformer, PC fights magical dinosaurs with their own set of tools, be it magic or otherwise.
 
 
 
