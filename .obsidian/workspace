@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Narrative/Story Synopsis/NarrativeSyn.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Narrative/Story Synopsis/NarrativeSyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Narrative/Story Synopsis/NarrativeSyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Narrative/Story Synopsis/NarrativeSyn.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "ad660f41608fa2da",
   "lastOpenFiles": [
-    "MiscAttachments/ScreenShotOfObsidian.png",
+    "LEGAL/Legal Documentation.md",
+    "MiscAttachments/imgOfLicense.png",
     "README.md",
+    "MiscAttachments/ScreenShotOfObsidian.png",
     "Visual Design/README.md",
     "Narrative/Story Synopsis/NarrativeSyn.md",
     "Visual Design/Sketches/MagicTrexRunesConcept.png",
