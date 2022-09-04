@@ -32,7 +32,10 @@ Simple point-by-point of game details, this isn't a literary analysis / outline.
   - Magical runes, incantations, spells, various castings all in use by Dinosaurs
 
 
+Via Sasha:
+>I think we could probably roll the morality heroism and bravery into an "Honor" stat to keep things a little more streamlined. have high-honor states lead to positive/good outcomes (i.e. everyone trusts you) vs a low honor state (no-one trusts you because you are a shady fuck) lead to the more negative/evil outcomes
 
+ > and we can have 1 fixed ending, and the "differences" would just be which side of the conflict you put yourself on. Good being like 33% or lower would lead to evil ending, 33-66 leads to the neutral ending, and then 66-100 leads to the good ending
 
 
 
